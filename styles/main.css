@@ -147,7 +147,7 @@ footer {
 }
 
 #our-story header, #directions header, #schedule header,
-#accomodations header, #gifts header {
+#accommodations header, #gifts header {
 	position: relative;
 	top: -4em;
 
@@ -155,12 +155,12 @@ footer {
 	padding-top: 4em;
 }
 #our-story header h3, #directions header h3, #schedule header h3,
-#accomodations header h3, #gifts header h3 {
+#accommodations header h3, #gifts header h3 {
 	position: absolute;
 	right: 0;
 } 
 #our-story header img, #directions header img, #schedule header img,
-#accomodations header img, #gifts header img {
+#accommodations header img, #gifts header img {
 	position: relative;
 	z-index: -2;
 
@@ -169,7 +169,7 @@ footer {
 }
 
 #our-story .content, #directions .content,
-#accomodations .content, #gifts .content {
+#accommodations .content, #gifts .content {
 	margin-right: 40%;
 }
 
@@ -282,33 +282,33 @@ footer {
 	font-size: 0.8em;
 }
 
-#accomodations h4 {
+#accommodations h4 {
 	margin-bottom: 0.4em;
 	text-transform: uppercase;
-} #accomodations .contact-info {
+} #accommodations .contact-info {
 	margin-bottom: 1em;
-} #accomodations .contact-info li {
+} #accommodations .contact-info li {
 	display: inline-block;
 	margin-left: 1em;
-} #accomodations .contact-info li:first-child {
+} #accommodations .contact-info li:first-child {
 	margin-left: 0;
-} #accomodations .contact-info li:before {
+} #accommodations .contact-info li:before {
 	font-weight: bold;
 	content: '\00b7';
 	margin-right: 1em;
-} #accomodations .contact-info li:first-child:before {
+} #accommodations .contact-info li:first-child:before {
 	content: none;
-} #accomodations table {
+} #accommodations table {
 	margin: 0 auto;
 
 	font-size: 1.2em;
-} #accomodations th {
+} #accommodations th {
 	text-align: center;
-} #accomodations td {
+} #accommodations td {
 	padding: 0.5em;
-} #accomodations .name {
+} #accommodations .name {
 	display: block;
-} #accomodations .desc {
+} #accommodations .desc {
 	display: block;
 }
 
@@ -356,27 +356,27 @@ footer {
 	}
 
 	#our-story .content, #directions .content,
-	#accomodations .content, #gifts .content {
+	#accommodations .content, #gifts .content {
 		margin-right: 0;
 	}
 
 	#our-story header, #directions header,
-	#accomodations header, #gifts header {
+	#accommodations header, #gifts header {
 		position: relative;
 	}
 	#our-story header .tiles, #directions header .tiles,
-	#accomodations header .tiles, #gifts header .tiles {
+	#accommodations header .tiles, #gifts header .tiles {
 		top: -5.5em;
 	}
 	#our-story header h3, #directions header h3,
-	#accomodations header h3, #gifts header h3 {
+	#accommodations header h3, #gifts header h3 {
 		position: absolute;
 		bottom: 0;
 		right: 0;
 		left: 0;
 	}
 	#our-story header img, #directions header img,
-	#accomodations header img, #gifts header img {
+	#accommodations header img, #gifts header img {
 		float: none;
 
 		width: 100%;
